@@ -1,0 +1,19 @@
+{
+  "beds": {
+    "icu_total": 10,
+    "icu_occupied": 7,
+    "general_total": 30,
+    "general_occupied": 4
+  },
+  "condition_counts": {
+    "heart_attack": 5,
+    "cancer": 1,
+    "infection": 3,
+    "other": 2
+  },
+  "age_groups": {
+    "child": 5,
+    "adult": 5,
+    "elderly": 1
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "live_emergency": [
+    {
+      "Name": "harshit",
+      "Age": 0,
+      "Gender": "Male",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "Rahul",
+      "Age": 18,
+      "Gender": "Male",
+      "Condition": "Stroke",
+      "Decision": "Emergency",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "Rahul",
+      "Age": 0,
+      "Gender": "Male",
+      "Condition": "Stroke",
+      "Decision": "Emergency",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "kartigay",
+      "Age": 0,
+      "Gender": "Male",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Confidence": 0.4,
+      "History": []
+    },
+    {
+      "Name": "srijan",
+      "Age": 19,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.4,
+      "History": []
+    },
+    {
+      "Name": "srijan",
+      "Age": 19,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.4,
+      "History": []
+    },
+    {
+      "Name": "harshit",
+      "Age": 9,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.4,
+      "History": []
+    },
+    {
+      "Name": "harshit",
+      "Age": 9,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.4,
+      "History": []
+    },
+    {
+      "Name": "harshit",
+      "Age": 9,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "harshit",
+      "Age": 0,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "heart attack",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.4,
+      "History": []
+    },
+    {
+      "Name": "harshit",
+      "Age": 40,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "respiratory arrest",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "kunal",
+      "Age": 19,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "stroke",
+      "Decision": "Emergency",
+      "Bed": "ICU",
+      "Confidence": 0.3
+    }
+  ],
+  "live_urgent": [],
+  "live_elective": [
+    {
+      "Name": "harshit",
+      "Age": 20,
+      "Gender": "Male",
+      "Condition": "cancer",
+      "Decision": "Elective",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "kartigay",
+      "Age": 0,
+      "Gender": "Male",
+      "Condition": "leg injury",
+      "Decision": "Elective",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "kartigay",
+      "Age": 0,
+      "Gender": "Male",
+      "Condition": "fracture",
+      "Decision": "Elective",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "harshit",
+      "Age": 40,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "high fever and infection",
+      "Decision": "Elective",
+      "Bed": "General",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "kunj",
+      "Age": 60,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "high fever and infection",
+      "Decision": "Elective",
+      "Bed": "General",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "kunj",
+      "Age": 0,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "high fever and infection",
+      "Decision": "Elective",
+      "Bed": "General",
+      "Confidence": 0.3,
+      "History": []
+    },
+    {
+      "Name": "qwert123",
+      "Age": 32,
+      "Gender": "Male",
+      "Blood Type": "A+",
+      "Condition": "cancer",
+      "Decision": "Elective",
+      "Bed": "General",
+      "Confidence": 0.3
+    }
+  ]
+}
